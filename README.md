@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, I am Erica Grundy! 
+## Hi, I am Dnyanada Mahajan! 
 </br>
 
  <div>
@@ -50,6 +50,6 @@ Here are some ideas to get you started:
  </br>
 </br>
  
-  ![Snake animation](https://github.com/dnyanada02/dnyanada02/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/dnyanada02/blob/output/github-contribution-grid-snake.svg)
  
 </div>
