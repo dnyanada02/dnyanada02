@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 -->
 
   
- <a href="#"><img width="100%" height="auto" src="https://www.canva.com/design/DAFNhA0PQuE/watch" height="175px"/></a>
 
   <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Dnyanada+Mahajan.;I'm+a+student+at+MITAOE.;I+love+learning+new+technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+GitHub+Page!;I'm+Dnyanada+Mahajan.;I'm+a+Web+Developer+and+ML+Enthusiast.;I+love+learning+new+technologies)](https://git.io/typing-svg)
 
  <div>
   <a href="https://github.com/dnyanada02">
